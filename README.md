@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dominikmodrzejewski
-- 👀 I’m interested in Web Development and Telecomunication
-- 🌱 I’m currently learning Boostrap and JS
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PHP
 
 <!---
 dominikmodrzejewski/dominikmodrzejewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
